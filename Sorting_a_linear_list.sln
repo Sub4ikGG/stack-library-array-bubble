@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32127.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting_a_linear_list", "Sorting_a_linear_list\Sorting_a_linear_list.csproj", "{62C827E4-5361-4A9A-8C06-F3D657257356}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackUtils", "StackUtils\StackUtils.csproj", "{EADE813E-C92C-4EBC-AB24-E8A5526F76B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62C827E4-5361-4A9A-8C06-F3D657257356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62C827E4-5361-4A9A-8C06-F3D657257356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62C827E4-5361-4A9A-8C06-F3D657257356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62C827E4-5361-4A9A-8C06-F3D657257356}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EADE813E-C92C-4EBC-AB24-E8A5526F76B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EADE813E-C92C-4EBC-AB24-E8A5526F76B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EADE813E-C92C-4EBC-AB24-E8A5526F76B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EADE813E-C92C-4EBC-AB24-E8A5526F76B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {988CEB98-FE97-468D-A4BF-8915271E4109}
+	EndGlobalSection
+EndGlobal
